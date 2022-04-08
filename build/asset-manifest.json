@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff7593f5.css",
+    "main.js": "/static/js/main.3ef013f7.js",
+    "static/media/fotis.jpg": "/static/media/fotis.fd9a2aefdc8f2e1d61ab.jpg",
+    "static/media/jen.png": "/static/media/jen.a4bf1a239d8e06c1632f.png",
+    "static/media/img6.png": "/static/media/img6.f3a425627accb06bbf49.png",
+    "static/media/scott.jpg": "/static/media/scott.e2b52d5ad6bd33a8002e.jpg",
+    "static/media/maya.jpg": "/static/media/maya.0410e96388216ad919ef.jpg",
+    "static/media/choi.jpg": "/static/media/choi.d660c80e0268c0810e13.jpg",
+    "static/media/josh.jpg": "/static/media/josh.83d26ac75b1e82b6bb6c.jpg",
+    "static/media/img4.jpg": "/static/media/img4.e77b758d8a70bcb1a89a.jpg",
+    "static/media/jenna.jpg": "/static/media/jenna.a8f090a61bd7813cbbd4.jpg",
+    "static/media/img9.jpg": "/static/media/img9.6c2e7d65585a2d7538db.jpg",
+    "static/media/colton.jpg": "/static/media/colton.70f3f79dd6a525c13813.jpg",
+    "static/media/bryan.jpg": "/static/media/bryan.523fed5d6fcc14e2263e.jpg",
+    "index.html": "/index.html",
+    "main.ff7593f5.css.map": "/static/css/main.ff7593f5.css.map",
+    "main.3ef013f7.js.map": "/static/js/main.3ef013f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7593f5.css",
+    "static/js/main.3ef013f7.js"
+  ]
+}
